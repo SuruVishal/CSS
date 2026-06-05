@@ -29,7 +29,7 @@ A personal resume website created using HTML and CSS. This project showcases my 
 **Vishal**
 
 - LinkedIn: https://www.linkedin.com/in/vishal-suru-6a5a95375?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- GitHub: 
+- GitHub: https://github.com/SuruVishal/CSS.git
 
 ## Future Improvements
 
